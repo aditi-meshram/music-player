@@ -1,3 +1,3 @@
 # music-player
 
-Used HTML & CSS
+Used HTML, JavaScript & CSS
